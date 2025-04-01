@@ -10,4 +10,4 @@ jobs:
       -name: checkout code
         uses: actions/checkout@v3
        -name: print message
-         run: echooo "hello world GA testing"
+         run: echo "hello world GA testing"
